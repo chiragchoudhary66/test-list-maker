@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle test-list-maker",
+        "command": "test-list-maker:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "test-list-maker",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "test-list-maker:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
