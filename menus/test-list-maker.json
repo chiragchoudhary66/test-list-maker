@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle test-list-maker",
+        "label": "Toggle Test-list",
         "command": "test-list-maker:toggle"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "test-list-maker",
+          "label": "Test-list",
           "submenu": [
             {
               "label": "Toggle",
