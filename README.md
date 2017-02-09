@@ -4,7 +4,7 @@ This package displays a list of all the tests in the active spec file. It looks 
 
 You can move to the relevent test by simply clicking the test title.
 
-![Test-list-maker screenshot](./test-list-maker-screenshot.png?raw=true "Example Screenshot")
+![Test-list-maker screenshot](https://github.com/chiragchoudhary66/test-list-maker/blob/master/test-list-maker-screenshot.png?raw=true "Example Screenshot")
 
 ## Todo
 
