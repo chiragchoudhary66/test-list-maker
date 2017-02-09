@@ -3,7 +3,3 @@ npm-debug.log
 !node_modules
 node_modules/*
 !node_modules/js-treeview
-node_modules/js-treeview/*
-!node_modules/js-treeview/src
-node_modules/js-treeview/src/*
-!node_modules/js-treeview/src/treeview.js
