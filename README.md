@@ -6,7 +6,7 @@ This package displays a list of all the tests in the active spec file. It looks 
 
 ## Todo
 
-- Design right panel - [ close, ~~heading, list~~, resizable]
+- Design right panel - [ ~~close, heading, list~~, resizable]
 - ~~Auto-toggle on .spec file~~
 - ~~Parse file and make list~~
 - ~~Populate panel with the list~~
