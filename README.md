@@ -1,6 +1,8 @@
-# test-list-maker package
+# test-list-maker - Atom Package
 
 This package displays a list of all the tests in the active spec file. It looks for the 'describe' and 'it' syntax to populate an interactive test list in a panel.
+
+You can move to the relevent test by simply clicking the test title.
 
 ![Test-list-maker screenshot](./test-list-maker-screenshot.png?raw=true "Example Screenshot")
 
