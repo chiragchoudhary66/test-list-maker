@@ -13,3 +13,4 @@ This package displays a list of all the tests in the active spec file. It looks 
 - Make the panel resizable
 - Run individual test files
 - Run individual test
+- Show test result in the panel
