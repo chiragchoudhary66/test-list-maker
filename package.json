@@ -1,7 +1,7 @@
 {
   "name": "test-list-maker",
   "main": "./lib/test-list-maker",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "This package displays a list of all the tests in the active spec file. It looks for the 'describe' and 'it' syntax to populate an interactive test list in a panel. ",
   "keywords": [],
   "activationCommands": {},
